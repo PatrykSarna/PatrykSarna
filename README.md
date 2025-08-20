@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Wiki][https://patryksarna.github.io/Wiki/Wiki/Welcome]
+[Wiki](https://patryksarna.github.io/Wiki/Wiki/Welcome)
 
 <!--
 **PatrykSarna/PatrykSarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

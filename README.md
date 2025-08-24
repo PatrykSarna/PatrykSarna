@@ -1,18 +1,26 @@
-## Hi there 👋
+# 🧑‍🚀 Patryk Sarna
+**`Data Engineer`**
 
-[Wiki](https://patryksarna.github.io/Wiki/Wiki/Welcome)
+I'm an data engineer and explorer of the digital universe, driven by curiosity about how the world works. I build data pipelines and infrastructures from the ground up – from designing and collecting raw information, through transforming and modeling it, all the way to uncovering patterns and insights hidden within. For me, data is a lens to better understand reality, and I use it as a tool to learn and share knowledge.
 
-<!--
-**PatrykSarna/PatrykSarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I publish my open-source projects and experiments at https://sarnalab.org
 
-Here are some ideas to get you started:
+### 🧰 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Apache Kafka" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" />
+
+<img align="left" alt="Airflow" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<br />
+
+
+![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykSarna&show_icons=true&theme=gruvbox)
+
